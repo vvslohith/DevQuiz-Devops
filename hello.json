@@ -1,0 +1,185 @@
+[
+
+  {
+    "domain": "Mathematics",
+    "questionText": "What is the derivative of x^2?",
+    "options": ["2x", "x", "x^2", "1"],
+    "correctAnswer": "2x",
+    "__v": 0
+  },
+  {
+    "domain": "Mathematics",
+    "questionText": "What is the value of sin(90°)?",
+    "options": ["0", "1", "0.5", "Undefined"],
+    "correctAnswer": "1",
+    "__v": 0
+  },
+  {
+    "domain": "Mathematics",
+    "questionText": "What is 12 divided by 4?",
+    "options": ["2", "4", "3", "6"],
+    "correctAnswer": "3",
+    "__v": 0
+  },
+
+
+  {
+    "domain": "Science",
+    "questionText": "What planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "correctAnswer": "Mercury",
+    "__v": 0
+  },
+  {
+    "domain": "Science",
+    "questionText": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "correctAnswer": "Mitochondria",
+    "__v": 0
+  },
+  {
+    "domain": "Science",
+    "questionText": "What is H2SO4 commonly known as?",
+    "options": ["Hydrochloric acid", "Sulfuric acid", "Nitric acid", "Acetic acid"],
+    "correctAnswer": "Sulfuric acid",
+    "__v": 0
+  },
+
+
+  {
+    "domain": "History",
+    "questionText": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+    "correctAnswer": "George Washington",
+    "__v": 0
+  },
+  {
+    "domain": "History",
+    "questionText": "In which year did World War II end?",
+    "options": ["1945", "1939", "1918", "1965"],
+    "correctAnswer": "1945",
+    "__v": 0
+  },
+  {
+    "domain": "History",
+    "questionText": "Who was the ruler of the Maurya Empire?",
+    "options": ["Ashoka", "Akbar", "Shivaji", "Raja Raja Chola"],
+    "correctAnswer": "Ashoka",
+    "__v": 0
+  },
+
+
+  {
+    "domain": "Geography",
+    "questionText": "Which is the largest ocean in the world?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correctAnswer": "Pacific",
+    "__v": 0
+  },
+  {
+    "domain": "Geography",
+    "questionText": "Mount Everest is located in which mountain range?",
+    "options": ["Rockies", "Alps", "Andes", "Himalayas"],
+    "correctAnswer": "Himalayas",
+    "__v": 0
+  },
+  {
+    "domain": "Geography",
+    "questionText": "Which river is the longest in the world?",
+    "options": ["Nile", "Amazon", "Ganga", "Yangtze"],
+    "correctAnswer": "Nile",
+    "__v": 0
+  },
+
+
+  {
+    "domain": "Literature",
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Wordsworth", "William Shakespeare", "John Keats", "Jane Austen"],
+    "correctAnswer": "William Shakespeare",
+    "__v": 0
+  },
+  {
+    "domain": "Literature",
+    "questionText": "Which book features the character 'Hobbit'?",
+    "options": ["The Hobbit", "Harry Potter", "Narnia", "Percy Jackson"],
+    "correctAnswer": "The Hobbit",
+    "__v": 0
+  },
+  {
+    "domain": "Literature",
+    "questionText": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Emily Brontë", "Jane Austen", "Charles Dickens", "George Eliot"],
+    "correctAnswer": "Jane Austen",
+    "__v": 0
+  },
+
+
+  {
+    "domain": "Computer Science",
+    "questionText": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Primary Unit", "Central Programming Unit", "Core Power Unit"],
+    "correctAnswer": "Central Processing Unit",
+    "__v": 0
+  },
+  {
+    "domain": "Computer Science",
+    "questionText": "What is the full form of HTML?",
+    "options": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlink Text Managing Language"],
+    "correctAnswer": "Hyper Text Markup Language",
+    "__v": 0
+  },
+  {
+    "domain": "Computer Science",
+    "questionText": "Which language is primarily used for web development?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "correctAnswer": "JavaScript",
+    "__v": 0
+  },
+
+ 
+  {
+    "domain": "Art",
+    "questionText": "Who painted the Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci",
+    "__v": 0
+  },
+  {
+    "domain": "Art",
+    "questionText": "What is the primary color not used in mixing others?",
+    "options": ["Red", "Green", "Black", "White"],
+    "correctAnswer": "Red",
+    "__v": 0
+  },
+  {
+    "domain": "Art",
+    "questionText": "Which art movement is Salvador Dalí associated with?",
+    "options": ["Surrealism", "Impressionism", "Cubism", "Realism"],
+    "correctAnswer": "Surrealism",
+    "__v": 0
+  },
+
+ 
+  {
+    "domain": "Sports",
+    "questionText": "How many players are there in a soccer team?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "11",
+    "__v": 0
+  },
+  {
+    "domain": "Sports",
+    "questionText": "In which sport is the term 'love' used?",
+    "options": ["Football", "Tennis", "Basketball", "Cricket"],
+    "correctAnswer": "Tennis",
+    "__v": 0
+  },
+  {
+    "domain": "Sports",
+    "questionText": "Who has won the most Olympic gold medals?",
+    "options": ["Usain Bolt", "Michael Phelps", "Mark Spitz", "Simone Biles"],
+    "correctAnswer": "Michael Phelps",
+    "__v": 0
+  }
+]
