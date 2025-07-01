@@ -20,7 +20,7 @@ spec:
             - containerPort: 5000
           env:
             - name: MONGO_URL
-              value: "mongodb://localhost:27017/devQuiz"
+              value: "mongodb://127.0.0.1:27017/devQuiz"
 ---
 apiVersion: v1
 kind: Service
