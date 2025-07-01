@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git branch: 'main', url: 'https://github.com/SyedAshrafGufran/Devquiz.git'
+        git branch: 'main', url: 'https://github.com/vvslohith/DevQuiz-Devops.git'
       }
     }
 
@@ -48,7 +48,7 @@ pipeline {
 
         stage('Deploy to Kubernetes') {
             steps {
-                withEnv(["KUBECONFIG=C:\\Program Files\\Jenkins\\config"]) {
+                withEnv(["KUBECONFIG=C:\\Users\\vvslo\\.kube\\config"]) {
     bat 'kubectl apply -f k8s\\mongo-deployment.yaml'
     bat 'kubectl apply -f k8s\\mongo-service.yaml'
     bat 'kubectl apply -f k8s\\backend-deployment.yaml'
