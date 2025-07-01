@@ -8,7 +8,7 @@ function DomainSelection() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    axios.get('http://backend:5000/api/domains').then(res => setDomains(res.data));
+    axios.get('http://localhost:5000/api/domains').then(res => setDomains(res.data));
   }, []);
 
   return (
